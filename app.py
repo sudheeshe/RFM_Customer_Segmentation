@@ -12,7 +12,7 @@ def home():
 @app.route('/submit', methods=['POST'])
 def result():
 
-    csv = 'dataset_for_prediction.csv'
+    csv = 'Data/Deployment_data/dataset_for_prediction.csv'
     customer_id = int(request.form.get('customer_id'))
     data = pd.read_csv(csv, dtype={'CustomerID':int, 'Type_of_customers': str})
     index_list = list(data['CustomerID'])

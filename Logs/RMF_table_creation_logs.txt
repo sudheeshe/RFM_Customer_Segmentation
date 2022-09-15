@@ -1,0 +1,316 @@
+
+2022-09-15/21:57:00		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/21:57:00		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/21:57:00		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/21:57:00		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/21:57:00		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/21:57:00		RMF_table created successfully.
+2022-09-15/21:57:00		Leaving create_rmf_table method of stage_2 class
+2022-09-15/21:59:29		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/21:59:29		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/21:59:29		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/21:59:29		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/21:59:29		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/21:59:29		RMF_table created successfully.
+2022-09-15/21:59:29		Leaving create_rmf_table method of stage_2 class
+2022-09-15/22:01:27		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/22:01:27		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/22:01:27		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/22:01:27		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/22:01:27		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/22:01:27		RMF_table created successfully.
+2022-09-15/22:01:27		Leaving create_rmf_table method of stage_2 class
+2022-09-15/22:09:14		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/22:09:14		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/22:09:14		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/22:09:14		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/22:09:14		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/22:09:15		RMF_table created successfully.
+2022-09-15/22:09:15		Leaving create_rmf_table method of stage_2 class
+2022-09-15/22:11:08		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/22:11:08		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/22:11:08		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/22:11:08		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/22:11:08		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/22:11:09		RMF_table created successfully.
+2022-09-15/22:11:09		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:11:18		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:11:18		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:11:18		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:11:18		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:11:18		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:11:19		RMF_table created successfully.
+2022-09-15/23:11:19		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:11:46		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:11:46		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:11:46		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:11:47		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:11:47		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:11:47		RMF_table created successfully.
+2022-09-15/23:11:47		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:15:16		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:15:16		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:15:16		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:15:16		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:15:16		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:15:17		RMF_table created successfully.
+2022-09-15/23:15:17		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:15:55		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:15:55		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:15:55		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:15:55		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:15:55		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:15:56		RMF_table created successfully.
+2022-09-15/23:15:56		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:30:13		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:30:13		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:30:13		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:30:13		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:30:13		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:30:14		RMF_table created successfully.
+2022-09-15/23:30:14		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:30:26		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:30:26		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:30:27		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:30:27		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:30:27		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:30:27		RMF_table created successfully.
+2022-09-15/23:30:27		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:30:39		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:30:39		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:30:39		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:30:39		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:30:39		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:30:39		RMF_table created successfully.
+2022-09-15/23:30:39		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:30:54		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:30:55		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:30:55		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:30:55		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:30:55		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:30:55		RMF_table created successfully.
+2022-09-15/23:30:55		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:31:48		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:31:48		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:31:48		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:31:48		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:31:48		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:31:49		RMF_table created successfully.
+2022-09-15/23:31:49		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:46:15		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:46:15		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:46:15		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:46:15		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:46:15		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:46:15		RMF_table created successfully.
+2022-09-15/23:46:15		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:49:44		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:49:44		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:49:45		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:49:45		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:49:45		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:49:45		RMF_table created successfully.
+2022-09-15/23:49:45		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:50:55		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:50:55		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:50:55		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:50:55		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:50:55		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:50:56		RMF_table created successfully.
+2022-09-15/23:50:56		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:53:07		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:53:07		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:53:07		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:53:07		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:53:07		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:53:07		RMF_table created successfully.
+2022-09-15/23:53:07		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:55:28		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:55:28		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:55:28		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:55:29		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:55:29		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:55:29		RMF_table created successfully.
+2022-09-15/23:55:29		Leaving create_rmf_table method of stage_2 class
+2022-09-15/23:57:41		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-15/23:57:41		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-15/23:57:41		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-15/23:57:41		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-15/23:57:41		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-15/23:57:42		RMF_table created successfully.
+2022-09-15/23:57:42		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:12:32		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:12:32		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:12:32		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:12:32		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:12:32		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:12:32		RMF_table created successfully.
+2022-09-16/00:12:32		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:13:13		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:13:13		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:13:13		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:13:13		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:13:13		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:13:14		RMF_table created successfully.
+2022-09-16/00:13:14		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:15:58		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:15:58		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:15:58		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:15:58		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:15:58		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:15:59		RMF_table created successfully.
+2022-09-16/00:15:59		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:40:43		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:40:43		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:40:43		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:40:43		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:40:43		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:40:44		RMF_table created successfully.
+2022-09-16/00:40:44		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:43:05		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:43:05		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:43:05		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:43:05		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:43:05		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:43:05		RMF_table created successfully.
+2022-09-16/00:43:05		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:45:03		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:45:03		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:45:03		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:45:03		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:45:03		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:45:04		RMF_table created successfully.
+2022-09-16/00:45:04		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:56:47		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:56:47		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:56:47		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:56:47		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:56:47		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:56:48		RMF_table created successfully.
+2022-09-16/00:56:48		Leaving create_rmf_table method of stage_2 class
+2022-09-16/00:58:03		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/00:58:03		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/00:58:03		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/00:58:04		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/00:58:04		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/00:58:04		RMF_table created successfully.
+2022-09-16/00:58:04		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:05:32		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:05:32		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:05:32		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:05:32		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:05:32		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:05:33		RMF_table created successfully.
+2022-09-16/01:05:33		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:08:13		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:08:13		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:08:13		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:08:13		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:08:13		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:08:13		RMF_table created successfully.
+2022-09-16/01:08:13		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:09:02		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:09:02		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:09:02		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:09:02		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:09:02		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:09:02		RMF_table created successfully.
+2022-09-16/01:09:02		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:10:16		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:10:16		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:10:16		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:10:16		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:10:16		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:10:17		RMF_table created successfully.
+2022-09-16/01:10:17		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:12:20		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:12:20		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:12:20		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:12:21		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:12:21		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:12:22		RMF_table created successfully.
+2022-09-16/01:12:22		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:14:47		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:14:47		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:14:47		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:14:47		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:14:47		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:14:49		RMF_table created successfully.
+2022-09-16/01:14:49		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:16:26		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:16:26		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:16:26		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:16:26		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:16:26		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:16:27		RMF_table created successfully.
+2022-09-16/01:16:27		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:16:57		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:16:57		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:16:57		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:16:57		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:16:57		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:16:58		RMF_table created successfully.
+2022-09-16/01:16:58		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:20:32		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:20:32		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:20:32		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:20:32		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:20:33		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:20:33		RMF_table created successfully.
+2022-09-16/01:20:33		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:21:06		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:21:06		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:21:06		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:21:06		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:21:06		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:21:06		RMF_table created successfully.
+2022-09-16/01:21:06		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:31:11		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:31:11		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:31:11		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:31:11		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:31:11		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:31:12		RMF_table created successfully.
+2022-09-16/01:31:12		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:31:36		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:31:36		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:31:36		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:31:36		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:31:36		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:31:37		RMF_table created successfully.
+2022-09-16/01:31:37		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:31:47		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:31:47		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:31:47		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:31:47		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:31:47		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:31:47		RMF_table created successfully.
+2022-09-16/01:31:47		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:34:57		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:34:57		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:34:57		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:34:57		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:34:57		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:34:57		RMF_table created successfully.
+2022-09-16/01:34:57		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:37:49		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:37:49		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:37:49		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:37:49		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:37:49		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:37:50		RMF_table created successfully.
+2022-09-16/01:37:50		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:38:12		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:38:12		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:38:12		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:38:12		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:38:12		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:38:13		RMF_table created successfully.
+2022-09-16/01:38:13		Leaving create_rmf_table method of stage_2 class
+2022-09-16/01:53:42		Inside create_rmf_table method of stage_2 class >>> Started creating RMF table.
+2022-09-16/01:53:42		Inside create_rmf_table method of stage_2 class >>> Removed other countries keeping only United Kingdom.
+2022-09-16/01:53:42		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where CustomerID was null .
+2022-09-16/01:53:42		Inside create_rmf_table method of stage_2 class >>> Dropped all Null records where Quantity & UnitPrice was negative .
+2022-09-16/01:53:42		Inside create_rmf_table method of stage_2 class >>> Created TotalPrice column.
+2022-09-16/01:53:43		RMF_table created successfully.
+2022-09-16/01:53:43		Leaving create_rmf_table method of stage_2 class
