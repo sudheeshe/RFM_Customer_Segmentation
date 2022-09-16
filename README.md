@@ -228,3 +228,8 @@ Now lets see the value_counts
 [click here](https://rfm-customer-segmentation.herokuapp.com/)
 
 
+##### 🔗 Project explanation video link
+
+[click here](https://youtu.be/JAvUlAkJtqM)
+
+
