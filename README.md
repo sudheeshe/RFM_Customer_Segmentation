@@ -130,40 +130,49 @@ Now lets see the value_counts
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_17.jpg?raw=true)
 
 - Renaming `InvoiceDate to Recency`,`InvoiceNo to Frequency`, `TotalPrice to Monetary`
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_18.jpg?raw=true)
 
 - Lets see the distribution of `Recency`,  `Frequency`, ` Monetary`
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_19.jpg?raw=true)
 
 - We can notice there is skewness and outliers in RMF data, lets visualize outliers
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_20.jpg?raw=true)
 
 
 #### Lets handle the skewness and outliers by appling various transformations and imputation methods
 
 - lets see how dropping outliers affects the distribution and applying various transformations when considering5 `5 percentile` and `95 percentile`
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_21.jpg?raw=true)
 
 - We can see 29% of data is getting lost, which is not good
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_22.jpg?raw=true)
 
 
 - lets see how dropping outliers affects the distribution and applying various transformations when considering5 `5 percentile` and `95 percentile`
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_23.jpg?raw=true)
 
 - lets see how capping outliers affects the distribution and applying various transformations by fining `minimum` and `maximum` value using `Inter Quartile Range (IQR)`
   and imputing outliers with minimum and maximum values
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_24.jpg?raw=true)
 
 - But capping the outliers increases the frequency at the postive tail end of distribution.
 
 - lets see how KNNImputer works on outliers & see how it affects the distribution and also applying various transformations.
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_25.jpg?raw=true)
 
 
 - Finalizing KNNImputer for outlier removal and Yeo_Johnson transformation for skewness handling and standarizing data.
   
   Lets see final data sample:
+
   ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_26.jpg?raw=true)
 
 
@@ -175,6 +184,7 @@ Now lets see the value_counts
 - To find the optimal number of cluster we have two methods
 
 - `Method-1` is  ploting `elbow_plot`, with `wcss` and `number of clusters` in X and Y axis
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_27.jpg?raw=true)
 
 - `Method-2` is using `KneeLocator` class from `kneed library`. we have used the KneeLocator Method.
@@ -189,6 +199,7 @@ Now lets see the value_counts
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_29.jpg?raw=true)
 
 - Lets visualize the clusters predicted by KMeans
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_30.jpg?raw=true)
 
 - We can clearly see that clusters `purple` is good set of customers
@@ -200,11 +211,13 @@ Now lets see the value_counts
 
 - created a new dataset by combining CustomerID column and mapping the cluster with a meaningful names
   the data sample is below:
+
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_31.jpg?raw=true)
 
 
 
-###### 🔗 Find the deployment link on Heroku
+##### 🔗 Find the deployment link on Heroku
+
 [click here](https://rfm-customer-segmentation.herokuapp.com/)
 
 
