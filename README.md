@@ -209,12 +209,19 @@ Now lets see the value_counts
 
 ### Deployment
 
-- Created a new dataset by combining CustomerID column and mapping the cluster with a meaningful names
+- Created a new dataset by combining CustomerID column and mapping the cluster with a meaningful names.
   the data sample is below:
 
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_31.jpg?raw=true)
 
+- I've used 4 segments names as below:
 
+> * LOYAL CUSTOMERS
+> * ABOUT TO CHURN
+> * CHURNED CUSTOMER
+> * NEW CUSTOMER
+
+- By the UI provided the user can input CustomerID and check which segment the customer belongs to
 
 ##### 🔗 Find the deployment link on Heroku
 
