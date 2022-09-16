@@ -207,6 +207,14 @@ Now lets see the value_counts
 - Cluster `LIGHT_ORANGE` maybe a churned or about to churn customers since Recency is high(i.e. no recent purchase) Frequency is less, Monetary is also average
 - Clsuter `BLUE` would be possibly new set of customers since Recency is low (i.e. they made recent purchases), Frequency and Monetary is low, may be because they just started using the company services
 
+
+### Performance Metrics
+- The performance metric used was `silhouette_score`.
+- Final KMean model got `silhouette_score` of  `0.46`
+
+![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/df_overview_32.jpg?raw=true)
+
+
 ### Deployment
 
 - Created a new dataset by combining CustomerID column and mapping the cluster with a meaningful names.
