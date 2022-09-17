@@ -50,6 +50,10 @@ class Train_KMean:
 
             temp_data['cluster'] = final_kmean_model.labels_
 
+            ## Model saving
+            filename = 'Pickle/KMeans_model.pkl'
+            pkl.dump(final_kmean_model, open(filename, 'wb'))
+
             self.logger.log(self.file, 'traing of final KMean model was successful, saving data to Data/Data_created_by_KMeans/dataset_from_KMeans.csv')
             self.logger.log(self.file, 'Leaving train_model method of stage_4 class')
 
