@@ -33,7 +33,7 @@ for marketing and customers can also get beneficial.
 
 
 
-Lets see the sample of data which is provided
+Let's see the sample of data which is provided
 
 ![alt text](https://github.com/sudheeshe/RFM_Customer_Segmentation/blob/main/Images_for_readme/sample_data_head_snap.jpg?raw=true)
 
@@ -204,7 +204,7 @@ Now lets see the value_counts
 
 - We can clearly see that clusters `PURPLE` is good set of customers
 - Cluster `YELLOW` seems like about to churn customers
-- Cluster `LIGHT_ORANGE` maybe a churned or about to churn customers since Recency is high(i.e. no recent purchase) Frequency is less, Monetary is also average
+- Cluster `LIGHT_ORANGE` churned or almost churned customers since Recency is high(i.e. no recent purchase) Frequency is less, Monetary is also average
 - Clsuter `BLUE` would be possibly new set of customers since Recency is low (i.e. they made recent purchases), Frequency and Monetary is low, may be because they just started using the company services
 
 
